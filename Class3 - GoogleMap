@@ -1,9 +1,8 @@
 1. learn google map with javascript
 https://www.w3schools.com/graphics/google_maps_intro.asp
 
-Home work:
-create a 
-From location
-To location
+2. Google map API
+https://developers.google.com/maps/documentation/javascript/tutorial
 
-using googlemap 
+Home work: create a map to find the path in the map
+ 
