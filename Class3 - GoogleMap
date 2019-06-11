@@ -4,6 +4,8 @@ https://www.w3schools.com/graphics/google_maps_intro.asp
 2. Google map API
 https://developers.google.com/maps/documentation/javascript/tutorial
 
+https://console.cloud.google.com/home/dashboard?project=molten-seat-243320&folder=&organizationId=&supportedpurview=project
+
 Get the API key
 You must have at least one API key associated with your project.
 
@@ -17,6 +19,10 @@ The API key created dialog displays your newly created API key (an encrypted str
 Click Close. 
 The new API key is listed on the Credentials page under API keys. 
 (Remember to restrict the API key before using it in production.)
+
+4. How to enable your API Key
+https://stackoverflow.com/questions/35700182/apinotactivatedmaperror-for-simple-html-page-using-google-places-api
+
 
 Home work: create a map to find the path in the map
  
